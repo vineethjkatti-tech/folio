@@ -1,3 +1,7 @@
+@view-transition {
+  navigation: auto;
+}
+
 .nav-bar{
     display: flex;
     flex-direction: column;
@@ -16,9 +20,10 @@
 
 .nav-text:hover{
     color: #555;
+    transition: color 0.15s ease-in-out;
 }
 
 .nav-text:active{
     color: #333;
-    transition: color 2s;
+    transition: color 0.15s ease-in-out;
 }
