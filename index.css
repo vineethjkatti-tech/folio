@@ -8,7 +8,17 @@
 
 .nav-text{
     font-family: league gothic, courier, monospace;
-    font-size: 175px;
+    font-size: 100px;
     border: none;
+    background-color: white;
+    transition: color 2s;
+}
 
+.nav-text:hover{
+    color: #555;
+}
+
+.nav-text:active{
+    color: #333;
+    transition: color 2s;
 }
