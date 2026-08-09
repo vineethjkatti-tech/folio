@@ -35,8 +35,55 @@
     top: 15px;
     right: 15px;
     z-index: 1000;
+    text-decoration: none;
+    color: black;
+    transition: color 0.15s;
 }
 
-.exit-arrow-text:hover{
+.exit-arrow:hover{
     color: #555;
 }
+
+.introduction{
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.header{
+    border-bottom: 1px #555 solid;
+}
+
+.sec-header-text{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.sec-header{
+    border-bottom: #7a7878 1px solid;
+
+}
+
+.sec-text{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+}
+
+.intro-img{
+    height: 250px;
+    width: 250px;
+}
+
+.img-box{
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+    justify-content: center;
+}
+
+.sec-content{
+    margin-top: 50px;
+}
+

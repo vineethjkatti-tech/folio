@@ -15,15 +15,15 @@
     font-size: 100px;
     border: none;
     background-color: white;
-    transition: color 2s;
+    transition: color 0.15s;
 }
 
 .nav-text:hover{
     color: #555;
-    transition: color 0.15s ease-in-out;
+    transition: color 0.15s;
 }
 
 .nav-text:active{
     color: #333;
-    transition: color 0.15s ease-in-out;
+    transition: color 0.15s;
 }
