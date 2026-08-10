@@ -1,0 +1,65 @@
+.header{
+    border-bottom: 1px #555 solid;
+    display: flex;
+    flex-direction: row;
+}
+
+.exit-arrow{
+    position: fixed;
+    top: 15px;
+    right: 15px;
+    z-index: 1000;
+    text-decoration: none;
+    color: black;
+    transition: color 0.15s;
+}
+
+.exit-arrow:hover{
+    color: #555;
+}
+
+.header-text{
+    font-family: league gothic, courier, monospace;
+    font-size: 70px;
+    margin: 0;
+}
+
+.intro-text{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+}
+
+.contact-box{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.email, .github, .socials{
+        font-family: 'Courier New', Courier, monospace;
+    background-color: white;
+    border: solid 1px black;
+    color: black;
+    box-shadow: 8px 5px 0px 0 rgba(0, 0, 0, 1);
+    border-radius: 20px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    transition: all 0.15s;
+    text-decoration: none;
+}
+
+.email:hover, .github:hover, .socials:hover{
+    background-color: black;
+    color: white;
+    transition: all 0.15s;
+}
+
+.email:active, .socials:active, .github:active{
+    box-shadow: 0px 0px 0px 0 rgba(0, 0, 0, 1);
+    transform: translate(8px, 5px);
+}
