@@ -5,16 +5,32 @@
       "destination": "/.html/index.html"
     },
     {
+      "source": "/about.html",
+      "destination": "/.html/about.html"
+    },
+    {
       "source": "/about",
       "destination": "/.html/about.html"
+    },
+    {
+      "source": "/projects.html",
+      "destination": "/.html/projects.html"
     },
     {
       "source": "/projects",
       "destination": "/.html/projects.html"
     },
     {
+      "source": "/contact.html",
+      "destination": "/.html/contact.html"
+    },
+    {
       "source": "/contact",
       "destination": "/.html/contact.html"
+    },
+    {
+      "source": "/index.html",
+      "destination": "/.html/index.html"
     }
   ]
 }
