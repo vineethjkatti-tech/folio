@@ -12,23 +12,3 @@ This website contains 3 main pages - **About Page**, **Contact Page** and a **Pr
 ## Motivation 
 So, what got me started with this project was just seeing other's websites. Like everyone had their own space on the web.. it seemed kinda cool to me.
 Moreover it would save me the time I would lose introducing myself and also, it is a great starter project and I have learned a lot from it.
-
-1. Clone the source code to your device
-```sh
-git clone https://github.com/vineethjkatti-tech/weneedvj
-```
-
-2. Install the project's dependencies
-```sh
-npm install
-```
-
-3. Start the development server on `localhost:4321`
-```sh
-npm run dev
-```
-
-4. Build the site to `/dist`
-```sh
-npm run build
-```
