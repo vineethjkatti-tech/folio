@@ -12,3 +12,5 @@ This website contains 3 main pages - **About Page**, **Contact Page** and a **Pr
 ## Motivation 
 So, what got me started with this project was just seeing other's websites. Like everyone had their own space on the web.. it seemed kinda cool to me.
 Moreover it would save me the time I would lose introducing myself and also, it is a great starter project and I have learned a lot from it.
+
+
