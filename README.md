@@ -33,3 +33,6 @@ npm run dev
 ```sh
 npm run build
 ```
+
+## Deployment URL
+https://weneedvj.vercel.app
