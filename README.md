@@ -2,7 +2,7 @@
 
 ## Overview
 This project is my **first website**! and also happens to be my **personal website**.
-Its just a **static website** which is inspired by many other personal websites (from people on horizons btw).
+Its just a **static website** where I have only used **html and css**, which is inspired by many other personal websites (from people on horizons btw).
 
 This website contains 3 main pages - **About Page**, **Contact Page** and a **Projects Page**.
 
