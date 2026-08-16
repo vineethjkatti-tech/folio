@@ -1,6 +1,9 @@
 # weneedvj!!
 
 ## Overview
+
+<img width="959" height="451" alt="image" src="https://github.com/user-attachments/assets/62c76ee3-2876-46d4-88d7-fff3a9c4a030" />
+
 This project is my **first website**! and also happens to be my **personal website**.
 Its just a **static website** where I have only used **html and css**, which is inspired by many other personal websites (from people on horizons btw).
 
