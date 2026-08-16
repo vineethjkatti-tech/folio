@@ -36,3 +36,5 @@ npm run build
 
 ## Deployment URL
 https://weneedvj.vercel.app
+
+**Note: I have used about 15-20 percent AI to Debug Code and Edit Code when I got stuck.**
